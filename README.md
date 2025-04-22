@@ -47,6 +47,4 @@ If the license plate is authorized, a signal is sent to an Arduino via serial co
 
 ---
 
-## 🗂️ Folder Structure
-
 
